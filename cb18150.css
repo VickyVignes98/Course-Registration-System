@@ -1,0 +1,33 @@
+div{
+    padding: 10px;
+    
+}
+
+hr{
+    margin-bottom: 10px;;
+}
+
+#statusStudent{
+    margin-left: 40px;
+    margin-top: -27px;
+}
+
+.completed{
+    background-color: green;
+}
+
+.on-going{
+    background-color: yellow;
+}
+
+.not-yet-enrolled{
+    background-color: blue;
+}
+
+.already-enrolled{
+    background-color: red;
+}
+
+.no-planning-yet{
+    background-color: white;
+}
